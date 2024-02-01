@@ -22,11 +22,11 @@ cd Deeplogic_Tech_assignment
 python app.py
 ```
 
-The application will be accessible at http://127.0.0.1:5000/. 
+The application will be accessible at http://<localhost>/getTimeStories. 
 Use the /getTimeStories endpoint to get the latest six stories in JSON format.
 Example:
 ```bash
-curl http://127.0.0.1:5000/getTimeStories
+curl http://<localhost>/getTimeStories
 ```
 
 ## Error Handling
