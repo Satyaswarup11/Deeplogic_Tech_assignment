@@ -12,8 +12,8 @@ pip install flask
 
 ## Clone the repository and navigate to the project directory.
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/Satyaswarup11/Deeplogic_Tech_assignment.git
+cd Deeplogic_Tech_assignment
 ```
 
 ## Usage
