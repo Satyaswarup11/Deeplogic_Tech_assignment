@@ -22,7 +22,6 @@ cd Deeplogic_Tech_assignment
 python app.py
 ```
 
-The application will be accessible at http://<localhost>/getTimeStories. 
 Use the /getTimeStories endpoint to get the latest six stories in JSON format.
 Example:
 ```bash
