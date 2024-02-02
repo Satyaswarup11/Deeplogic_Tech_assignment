@@ -29,9 +29,8 @@ curl http://<localhost>/getTimeStories
 ```
 
 ## Error Handling
-```bash
+
 The application includes basic error handling to manage failed requests or unexpected errors during the process.
-```
 
 ## Dependencies
 - Flask
